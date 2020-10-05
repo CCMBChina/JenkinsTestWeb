@@ -49,7 +49,6 @@ public class RiskManagementController {
 //        return judgeRiskBusiness.judgeLoanRisk(loanApplyModel);
 //    }
 
-
     @RequestMapping("/jenkinsTestWeb/sys/test.json")
     public String test(LoanApplyModel loanApplyModel) {
 
